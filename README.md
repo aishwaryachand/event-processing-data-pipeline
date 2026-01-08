@@ -1,4 +1,4 @@
-# Phillies Pitch Tracking Data Pipeline
+# Event Tracking Data Pipeline
 Names: Aishwarya Chand
 Email: aishwarya7811@gmail.com
 
